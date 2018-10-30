@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab2_2ImplicitIntent</string>
+    <string name="visit_taruc">Visit TARUC</string>
+    <string name="show_main">Show Main</string>
+    <string name="show_dial">Show Dial</string>
+    <string name="show_sendTo">Show SendTo</string>
+</resources>
